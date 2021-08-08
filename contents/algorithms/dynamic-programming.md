@@ -17,8 +17,8 @@ Sometimes you do not need to store the whole DP table in memory, the last two va
 ## Recommended LeetCode questions
 
 - 0/1 Knapsack
-- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [Coin Change](https://leetcode.com/problems/coin-change/)
+- Solved [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- Very very hard... [Coin Change](https://leetcode.com/problems/coin-change/)
 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [Word Break Problem](https://leetcode.com/problems/word-break/)
